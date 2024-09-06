@@ -1,3 +1,2 @@
-# test.labb
-Fungerarr detta test?
-Hallå
+# labbar från databas
+Map för alla labbar från databas
